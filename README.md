@@ -6,27 +6,8 @@ whereas the other utilizes the Naught or Zero (O).
 
 Winning Condition
 On board three box should be filled with same sign in verticaly, horizontaly or dialgonaly it may be X or O.
-You can refer following diagram for better understanding.
+Tie Condition
+If none of them three in row then game ends and it will be tie
 
-    
-                     
- X  |    |               X  | X  | X                 |  X |
-----+----+----          ----+----+----           ----+----+----
-    |  X |                  |    |                   |  X |
-----+----+----          ----+----+----           ----+----+----
-    |    | X                |    |                   |  X |
- 
- Fig.1                       Fig.2                    Fig.2
- 
- 
- Tie Condition
- If none of them three in row then game ends and it will be tie
- Refer following diagram for better understanding
- 
-   X |  O | X
- ----+----+----
-   O | X  | X
- ----+----+----
-   O |  X | O
    
    
